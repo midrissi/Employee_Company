@@ -1,0 +1,1 @@
+﻿new SharedWorker("Workers/initData.js", "InitData");

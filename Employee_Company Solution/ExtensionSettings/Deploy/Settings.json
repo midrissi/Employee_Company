@@ -1,0 +1,11 @@
+﻿{
+	"userID":"53F7E2195682374B8F0F828733241EF8",
+	"token":"D56F9CA0F9389D4DA46899141032AA71",
+	"firstName":"Hamza",
+	"lastName":"HIKMAT",
+	"applicationID":"608",
+	"wakandaVersionID":"2",
+	"domain":"crm002.waktest.com",
+	"remoteRepository":"http://scmadmin:scmadmin@admin.us-repo-1.waktest.com/scm/git/r608",
+	"gitFolder":"/Users/mohamedidrissi/Documents/Wakanda/Demo Wakanda/.git"
+}
